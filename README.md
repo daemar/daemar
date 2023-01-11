@@ -8,7 +8,7 @@
    
    <br>
    <br>
-   
+   <div align="center"><h2><b>Proyectos en Flutter</b><h2></div>
   <div align="center"> <table>
   <tr>
      <div align="center"><td width="300px" height="500px"><div align="center"><b><h3>Películas</h3></b></div><div align="center"><img src="https://user-images.githubusercontent.com/114191102/211697499-611b9db3-76a2-4a12-8ce8-313f8b968973.png" height="300" width="150" /></div><br><div align="center"><b>Aplicación catálogo de <br>películas puede ejecutar <br> dispositivos Android e iOS</b></div></td></div>
