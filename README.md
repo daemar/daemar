@@ -3,7 +3,7 @@
 
 
  
-<div align="justify" margin="100"> Profesional en el desarrollo de aplicaciones, autodidacta, especialista en solución de problemas y trabajo en equipo, siempre dispuesta a adaptarme a las metodologías y tecnologías que se necesitan para llevar a cabo el desarrollo de un proyecto, con muchas ganas de seguir aprendiendo e innovando cada día mas.
+<div align="justify" margin="100"> Profesional en el desarrollo de aplicaciones, autodidacta, especialista en solución de problemas y trabajo en equipo, siempre dispuesto a adaptarme a las metodologías y tecnologías que se necesitan para llevar a cabo el desarrollo de un proyecto, con muchas ganas de seguir aprendiendo e innovando cada día mas.
    </div>
    
    <br>
