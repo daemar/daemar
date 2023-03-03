@@ -24,7 +24,7 @@
   <b><H1> Proyectos en C#</H1></b>
   <div align="left"> <table
   <tr>
-     <div align="center"><td width="320px" height="400px"><div align="center"><b><h3>Historias Médicas</h3></b></div><div align="center"><img src="https://user-images.githubusercontent.com/114191102/222848052-a725c287-0a3e-4b06-890b-f2fcc93ca3bd.png" height="260" width="302" /></div><br><div align="center"><a href="#https://github.com/daemar/HistoriaClinica"><b>Sistema de historias médicas <br> </a></b></div></td>
+     <div align="center"><td width="320px" height="400px"><div align="center"><b><h3>Historias Médicas</h3></b></div><div align="center"><img src="https://user-images.githubusercontent.com/114191102/222848052-a725c287-0a3e-4b06-890b-f2fcc93ca3bd.png" height="260" width="302" /></div><br><div align="center"><a href="https://github.com/daemar/HistoriaClinica"><b>Sistema de historias médicas <br> </a></b></div></td>
   </tr></table>  </div>
   
 
